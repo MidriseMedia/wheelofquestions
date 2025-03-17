@@ -1,17 +1,38 @@
 {
   "green": [
-    "What is the capital of France?",
-    "How many continents are there?",
-    "Name a primary color."
+    {"question": "What is a symptom of Asthma?", "answer": "Wheezing, Shortness of breath, Cough, Chest tightness"},
+    {"question": "What is one of the early signs of an asthma exacerbation in children?", "answer": "Cough"},
+    {"question": "What is a common quick reliever asthma medication?", "answer": "Albuterol"},
+    {"question": "What tool helps medication taken by an inhaler get into the airways better?", "answer": "A spacer"},
+    {"question": "What should be rinsed/washed after taking an inhaled steroid medication?", "answer": "Mouth & if using a mask the face as well"},
+    {"question": "Name a device used to inhale asthma medication", "answer": "Nebulizer, inhaler + spacer, breath actuated device"},
+    {"question": "Name some outdoor allergens that can be asthma triggers?", "answer": "Pollens: trees, grass, weeds, mold"},
+    {"question": "Name some of the signs and symptoms that need quick relief medication in children?", "answer": "Shortness of breath, cough, nasal flaring, waking up at night from symptoms, 'ribs pulling in'/retractions"}
   ],
   "yellow": [
-    "What is the chemical symbol for gold?",
-    "Who wrote 'Romeo and Juliet'?",
-    "What is the square root of 64?"
+    {"question": "Name a common asthma allergy trigger?", "answer": "Mold, Dust mites, Cockroaches, Pollen, Animal dander, Feathers"},
+    {"question": "Name an asthma household inhaled irritant trigger?", "answer": "Candles, fireplace/stove/cooking smoke, cigarette smoke, perfumes, sprayed cleaning supplies"},
+    {"question": "Name an asthma environmental inhaled irritant trigger?", "answer": "Pollution, fumes, outdoor smoke (Fires), viral infections, weather changes"},
+    {"question": "What annual vaccine helps to prevent future asthma exacerbations related to a common viral infection?", "answer": "Annual Flu vaccine"},
+    {"question": "What is a microscopic pest that likes to live in mattresses, pillows and stuffed animals that is an asthma trigger?", "answer": "Dust mite"},
+    {"question": "True or False: Secondhand smoke can cause serious harm to children both with or without asthma.", "answer": "True"},
+    {"question": "True or False: Asthma is one of the leading causes for missed days of school.", "answer": "True"},
+    {"question": "What type of asthma inhaled medication is Not used with a spacer?", "answer": "Dry powder, nebulized sol, breath actuated device"},
+    {"question": "What is the plan set in place to help control asthma symptoms?", "answer": "Asthma Action Plan"},
+    {"question": "What device is most commonly used to deliver asthma medications?", "answer": "A metered dose inhaler + spacer"},
+    {"question": "What is a common medication used as a rescue medication for an asthma exacerbation?", "answer": "Albuterol"},
+    {"question": "After using an inhaler corticosteroid, what should you do after?", "answer": "Rinse mouth out with water"},
+    {"question": "When should someone with asthma take their quick reliever medication?", "answer": "When they are experiencing increased symptoms"},
+    {"question": "Is there a true breed of a hypoallergenic dog? Why?", "answer": "No, because if someone is allergic the allergen is carried in hair, dander, saliva, urine, and they carry allergens on them such as dust, pollens"},
+    {"question": "If cold air is an asthma trigger what precaution can be taken to minimize the effect on the airways?", "answer": "Breathe through nose to warm the air, cover face with scarf, mask when outdoors, limit time in cold air, take prescribed medications"},
+    {"question": "If exercise is an asthma trigger what precautions can be taken to minimize the effect on the airways?", "answer": "Take prescribed medications as directed, inform provider if having EIA symptoms you may need to premedicate with a bronchodilator or change your controller medication to lessen the EIA symptoms, do warm ups & cool downs"},
+    {"question": "True or False: Using a spacer with an inhaler helps the inhaled medication reach the small airways better & less is deposited in the mouth.", "answer": "True"}
   ],
   "red": [
-    "Name the largest desert in the world.",
-    "What year did the Titanic sink?",
-    "Who developed the theory of relativity?"
+    {"question": "What is the name of the new therapy for single maintenance and reliever therapy?", "answer": "SMART Therapy with an ICS/LABA medication such as Symbicort or Dulera"},
+    {"question": "Name 2 or 3 things that happen to the airways during an asthma exacerbation?", "answer": "SET- Swelling, extra mucus and tightening of smooth muscle"},
+    {"question": "What kind of physical activity is most suitable for people with asthma?", "answer": "Aerobic activity, indoor swimming, yoga"},
+    {"question": "What is a type of medication that is used daily to control asthma symptoms?", "answer": "Inhaled corticosteroids, Inhaled steroids + Long acting beta agonist, Leukotriene modifier"},
+    {"question": "What additional device is needed when using an inhaler to improve the medication to get into the airways & lessens the risk for side effects in the mouth/throat?", "answer": "Spacer"}
   ]
 }
