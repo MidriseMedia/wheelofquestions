@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Wheel of Questions</title>
+  <style>
+    body { font-family: Arial, sans-serif; text-align: center; margin-top: 50px; }
+    .button { padding: 10px 20px; margin: 10px; font-size: 18px; cursor: pointer; }
+    .green { background-color: green; color: white; }
+    .yellow { background-color: yellow; color: black; }
+    .red { background-color: red; color: white; }
+  </style>
+</head>
+<body>
+  <h1>Spin the Wheel!</h1>
+  <button class="button green" onclick="getQuestion('green')">Green</button>
+  <button class="button yellow" onclick="getQuestion('yellow')">Yellow</button>
+  <button class="button red" onclick="getQuestion('red')">Red</button>
+  <h2 id="question"></h2>
+
+  <script src="script.js"></script>
+</body>
+</html>
