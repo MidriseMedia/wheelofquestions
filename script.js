@@ -4,6 +4,7 @@ async function getQuestion(color) {
   const randomIndex = Math.floor(Math.random() * questions[color].length);
   const selectedQuestion = questions[color][randomIndex];
 
+  // Display the selected question properly
   document.getElementById('question').innerText = selectedQuestion.question;
 
   // Create the "Answer" button if it doesn't exist
